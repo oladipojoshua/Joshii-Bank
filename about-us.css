@@ -121,10 +121,26 @@ a:hover {
 
 .contain{
     margin: 100px 120px;
-    background-color: red;
+    /* background-color: red; */
 }
 
-.about{
+.about1{
+    color: #58595B;
+}
+
+.about2{
     margin-top: 15px;
-    width:400px;
+    width:550px;
+    font-size: 19px;
+    color: #58595B;
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#box1{
+    background-color: #F3F3F3;
+    height: 100vh;
 }
