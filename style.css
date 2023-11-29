@@ -10,7 +10,7 @@
 }
 
 .cont1 {
-    background: #FF007F;
+    background: #D92128;
     width: 100%;
     height: 100vh;
 }
@@ -64,7 +64,7 @@ button.learn-more .circle {
     margin: 0;
     width: 3rem;
     height: 3rem;
-    background: #FF007F;
+    background: #D92128;
     border-radius: 1.625rem;
 }
 
