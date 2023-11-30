@@ -193,5 +193,16 @@ a:hover {
 
 #box2{
     background-image: url(Abimg/ST_1-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -100px;
+}
+
+.objectives{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.about1{
     
 }
