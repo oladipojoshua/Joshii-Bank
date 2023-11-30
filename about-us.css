@@ -154,8 +154,44 @@ a:hover {
     background-color: #F3F3F3;
     height: 100vh;
     width: 640px;
+    padding-left: 145px;
+    padding-top: 110px;
+    padding-right: 90px;
+}
+
+.thepss{
+    padding-top: 20px;
+}
+
+.thepss>p{
+    font-size:16px;
+    line-height: 22.6px;
+    font-weight: 100px;
+    color: #7A7A7A;
+}
+
+.aboutbutton{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-right: 70px;
+}
+
+.aboutbutton>button{
+    background-color: #D92128;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    height: 30px;
+    width: 150px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.aboutbutton>button:hover{
+    background-color: #58595B;
 }
 
 #box2{
+    background-image: url(Abimg/ST_1-1.jpg);
     
 }
